@@ -8,3 +8,6 @@ Start local server
 ----------
 - to start back-end server write ``npm start`` in root path.   
 - to start front-end write ``npm start`` in `blog/react-ui`
+
+
+___@ turaiev kyrylo___
