@@ -10,4 +10,4 @@ Start local server
 - to start front-end write ``npm start`` in `blog/react-ui`
 
 
-___@ turaiev kyrylo___
+___@turaievkyrylo___
