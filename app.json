@@ -1,6 +1,6 @@
 {
-  "name": "heroku-cra-node",
-  "description": "web app made of create-react-app UI + Node API",
+  "name": "My blog",
+  "description": "React + Express + MongoDB blog by Turaiev Kyrylo",
   "scripts": {
   },
   "env": {
