@@ -77,11 +77,14 @@ const fade = keyframes`
   `;
 
 const Container = styled.div`
+    display: flex;
+    flex-direction: column;
     width: 100%;
     animation: ${fade} ${SHORT_FADE + "s"} ease-in-out;
   `;
 
 const Main = styled.div`
-    margin-top: 100px;
+    display: flex;
     width: 100%;
+    height: 100%;
   `;

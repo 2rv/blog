@@ -9,7 +9,7 @@ export default ({search, change, value})=> {
 
     <Container>
       <Input onChange={(e)=> {change(e)}} value={value}/>
-      <Button onClick={()=> search()}>Start search</Button>
+      <Button onClick={()=> search()}>Start</Button>
     </Container>
 
   )
